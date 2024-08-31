@@ -1,6 +1,6 @@
 # 🛍️ ShopGenius
 
-**ShopGenius** is an AI-powered chatbot designed to provide personalized shopping suggestions, helping users find the perfect outfits for any occasion. Built with advanced language models and a user-friendly interface, ShopGenius makes shopping smarter and more enjoyable!
+**ShopGenius** is an AI-powered chatbot designed to provide personalized shopping suggestions, helping users find the perfect outfits for any occasion. Built with advanced language models along with RAG and a user-friendly interface, ShopGenius makes shopping smarter and more enjoyable!
 
 ## 🚀 Features
 

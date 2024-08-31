@@ -1,0 +1,6 @@
+numpy==1.24.2
+langchain==0.0.268
+langchain-community==0.0.9
+gradio==3.39.0
+faiss-cpu==1.7.3
+PyPDF2==3.0.1
